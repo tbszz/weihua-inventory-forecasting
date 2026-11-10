@@ -1,0 +1,7 @@
+data/raw/*.XLSX
+data/raw/*.xlsx
+reports/latest/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
